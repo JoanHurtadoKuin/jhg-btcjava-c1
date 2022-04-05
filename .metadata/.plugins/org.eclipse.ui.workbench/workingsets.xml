@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1649146343925_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1649146343934_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1649147112821_3" label="BTCJava2022" name="BTCJava2022">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/A" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1649146348378_2" label="Window Working Set" name="Aggregate for window 1649146348378"/>
+</workingSetManager>
